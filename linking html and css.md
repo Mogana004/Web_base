@@ -4,4 +4,4 @@ We use the HTML link element to link the HTML and CSS files. It is a void elemen
 
 #### Syntax:
 
-<link rel="stylesheet" href="tourism.css">
+## <link rel="stylesheet" href="tourism.css">
